@@ -4,7 +4,9 @@ import android.util.Log
 import com.google.firebase.messaging.FirebaseMessagingService
 import com.google.firebase.messaging.RemoteMessage
 
-
+/**
+ * Send notifications from https://console.firebase.google.com
+ */
 class NotificationsListenerService: FirebaseMessagingService() {
 
     companion object {
