@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "843074038594",
+    "firebase_url": "https://notificationtutorial-6c515.firebaseio.com",
+    "project_id": "notificationtutorial-6c515",
+    "storage_bucket": "notificationtutorial-6c515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843074038594:android:e5b11afe346d3473",
+        "android_client_info": {
+          "package_name": "com.eatfirst.notificationtutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843074038594-eo625qauu33qh54lapfmm22966elourc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eatfirst.notificationtutorial",
+            "certificate_hash": "AD4051AB06EB37F5331EDDB80E8A0D47F0DCFA87"
+          }
+        },
+        {
+          "client_id": "843074038594-ie4tfvi95ba29vjnkjlbt4vusgucv4r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHwohQv5z8Bzoha3BOoI9NpQOvmlIwdfQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843074038594-ie4tfvi95ba29vjnkjlbt4vusgucv4r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
